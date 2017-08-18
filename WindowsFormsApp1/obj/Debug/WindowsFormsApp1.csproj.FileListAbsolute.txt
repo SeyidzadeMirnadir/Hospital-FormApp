@@ -1,0 +1,20 @@
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\P501\Documents\Visual Studio 2017\Projects\P302\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MirNadir\Downloads\p302-13-07-2017-SeyidzadeMirnadir-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
